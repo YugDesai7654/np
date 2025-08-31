@@ -1,5 +1,5 @@
 {
-  "name": "Np",
+  "name": "np",
   "private": true,
   "scripts": {
     "build": "turbo run build",
